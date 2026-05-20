@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kent
 
-<!--
-**kent-tokyo/kent-tokyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rust engineer in Tokyo. Building tools for CJK and the problems nobody else fixed yet.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | Description |
+|---|---|
+| [harumi](https://github.com/kent-tokyo/harumi) | Pure Rust PDF library — CJK font subsetting, invisible text layers, zero C deps |
+| [shohei](https://github.com/kent-tokyo/shohei) | DNS diagnostic CLI — DNSSEC chain visualization, iterative trace, DoH/DoT |
+| [kaiji](https://github.com/kent-tokyo/kaiji) | High-performance CJK fuzzy match & normalization engine |
+| [chem-wasm-lens](https://github.com/kent-tokyo/chem-wasm-lens) | Ultra-lightweight molecular analysis kernel compiled to WebAssembly |
+
+---
+
+## Links
+
+- crates.io: [crates.io/users/kent-tokyo](https://crates.io/users/kent-tokyo)
+- dev.to: [dev.to/kent-tokyo](https://dev.to/kent-tokyo)
+- Zenn: [zenn.dev/kent_kamome](https://zenn.dev/kent_kamome)
