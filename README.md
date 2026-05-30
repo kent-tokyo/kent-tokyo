@@ -11,7 +11,7 @@ Rust engineer in Tokyo. Building tools for CJK and the problems nobody else fixe
 | [harumi](https://github.com/kent-tokyo/harumi) | Pure Rust PDF library — CJK font subsetting, invisible text layers, zero C deps |
 | [shohei](https://github.com/kent-tokyo/shohei) | DNS diagnostic CLI — DNSSEC chain visualization, iterative trace, DoH/DoT |
 | [kaiji](https://github.com/kent-tokyo/kaiji) | High-performance CJK fuzzy match & normalization engine |
-| [chem-wasm-lens](https://github.com/kent-tokyo/chem-wasm-lens) | Ultra-lightweight molecular analysis kernel compiled to WebAssembly |
+| [robost](https://github.com/kent-tokyo/robost) | Desktop automation (RPA) in Rust — robust, scriptable, no Electron |
 
 ---
 
