@@ -8,9 +8,10 @@ Rust engineer in Tokyo. Building tools for CJK and the problems nobody else fixe
 
 | Project | Description |
 |---|---|
-| [harumi](https://github.com/kent-tokyo/harumi) | Pure Rust PDF library — CJK font subsetting, invisible text layers, zero C deps |
+| [chematic](https://github.com/kent-tokyo/chematic) | Pure Rust cheminformatics library — RDKit feature parity, zero C/C++ FFI |
 | [sds-converter](https://github.com/kent-tokyo/sds-converter) | SDS document ↔ MHLW standard JSON bidirectional converter — multi-country regulatory format support |
 | [shohei](https://github.com/kent-tokyo/shohei) | DNS diagnostic CLI — DNSSEC chain visualization, iterative trace, DoH/DoT |
+| [harumi](https://github.com/kent-tokyo/harumi) | Pure Rust PDF library — CJK font subsetting, invisible text layers, zero C deps |
 | [kaiji](https://github.com/kent-tokyo/kaiji) | High-performance CJK fuzzy match & normalization engine |
 | [robost](https://github.com/kent-tokyo/robost) | Desktop automation (RPA) in Rust — robust, scriptable, no Electron |
 
