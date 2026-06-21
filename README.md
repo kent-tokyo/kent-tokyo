@@ -1,6 +1,6 @@
 # Kent-tokyo
 
-Rust engineer in Tokyo. Building tools for CJK and the problems nobody else fixed yet.
+Rust engineer in Tokyo — building tools for problems nobody else has fixed yet.　#chemistry #rust #japanese #chinese
 
 ---
 
