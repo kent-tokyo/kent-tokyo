@@ -1,4 +1,4 @@
-# Kent
+# Kent-tokyo
 
 Rust engineer in Tokyo. Building tools for CJK and the problems nobody else fixed yet.
 
