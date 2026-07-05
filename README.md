@@ -25,6 +25,7 @@ Rust engineer in Tokyo — building tools for problems nobody else has fixed yet
 |---|---|
 | [quietset](https://github.com/kent-tokyo/quietset) | Model-agnostic stability filtering for noisy labels, scores, seeds, budgets, models, and evaluators. |
 | [veridict](https://github.com/kent-tokyo/veridict) | Statistical regression gate for comparing candidate vs baseline results (win-rate, Elo, SPRT, bootstrap CI) |
+| [lineprior](https://github.com/kent-tokyo/lineprior) | Rust library and CLI for building domain-agnostic action priors from historical action sequences. |
 | [shohei](https://github.com/kent-tokyo/shohei) | DNS diagnostic CLI — DNSSEC chain visualization, iterative trace, DoH/DoT |
 
 ---
