@@ -17,7 +17,7 @@ Rust engineer in Tokyo — building tools for problems nobody else has fixed yet
 | [kaiji](https://github.com/kent-tokyo/kaiji) | High-performance CJK fuzzy match & normalization engine |
 | [robost](https://github.com/kent-tokyo/robost) | Desktop automation (RPA) in Rust — robust, scriptable, no Electron |
 | [quietset](https://github.com/kent-tokyo/quietset) | Model-agnostic stability filtering for noisy labels, scores, seeds, budgets, models, and evaluators. |
-| [veridict](https://github.com/kent-tokyo/veridict) | Statistical regression gate for comparing candidate vs baseline results (win-rate, Elo, SPRT, bootstrap CI)|
+| [veridict](https://github.com/kent-tokyo/veridict) | Statistical regression gate for comparing candidate vs baseline results (win-rate, Elo, SPRT, bootstrap CI) |
 
 ---
 
