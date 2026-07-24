@@ -10,7 +10,7 @@ Rust engineer in Tokyo — building tools for problems nobody else has fixed yet
 |---|---|
 | [chematic](https://github.com/kent-tokyo/chematic) | A pure-Rust cheminformatics library targeting RDKit feature parity — zero C/C++ by default. |
 | [renkin](https://github.com/kent-tokyo/renkin) | retrosynthesis engine that automatically discovers optimal chemical reaction routes from a target molecule back to cheap, commercially available starting materials.|
-| [sds-converter](https://github.com/kent-tokyo/sds-converter) | SDS document ↔ MHLW standard JSON bidirectional converter — multi-country regulatory format support |
+| [sdsforge](https://github.com/kent-tokyo/sdsforge) | SDS document ↔ MHLW standard JSON bidirectional converter — multi-country regulatory format support |
 
 ## Projects　- Automation & Document
 | Project | Description |
