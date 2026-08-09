@@ -9,6 +9,7 @@ Rust engineer in Tokyo — building tools for problems nobody else has fixed yet
 | Project | Description |
 |---|---|
 | [chematic](https://github.com/kent-tokyo/chematic) | A pure-Rust cheminformatics library targeting RDKit feature parity — zero C/C++ by default. |
+| [rensei](https://github.com/kent-tokyo/rensei) | Fast, explainable, route-free molecular synthesizability diagnostics.|
 | [renkin](https://github.com/kent-tokyo/renkin) | retrosynthesis engine that automatically discovers optimal chemical reaction routes from a target molecule back to cheap, commercially available starting materials.|
 | [masstrust](https://github.com/kent-tokyo/masstrust) | Calibrated trust and abstention for MS/MS molecular annotations.|
 | [sdsforge](https://github.com/kent-tokyo/sdsforge) | MHLW standard JSON bidirectional converter — multi-country regulatory format support. |
