@@ -22,5 +22,8 @@ Rust engineer in Tokyo — building tools for problems nobody else has fixed yet
 | [veridict](https://github.com/kent-tokyo/veridict) | Statistical regression gate for comparing candidate vs baseline results (win-rate, Elo, SPRT, bootstrap CI) |
 | [lineprior](https://github.com/kent-tokyo/lineprior) | Rust library and CLI for building domain-agnostic action priors from historical action sequences. |
 | [causasv](https://github.com/kent-tokyo/causasv) | Causal feature attribution via Asymmetric Shapley Values (ASV). |
+| [mokuren](https://github.com/kent-tokyo/mokuren) | a fast, explainable symbolic composition engine for exploring music-theoretic decisions. |
 | [shohei](https://github.com/kent-tokyo/shohei) | DNS diagnostic CLI — DNSSEC chain visualization, iterative trace, DoH/DoT |
+
+
 
